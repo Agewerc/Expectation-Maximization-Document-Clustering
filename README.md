@@ -1,6 +1,7 @@
 # Clustering News with Expectation Maximization
 
-![Imgur](https://i.imgur.com/U3lsSMA.png)
+<img src="https://i.imgur.com/U3lsSMA.png" width="400">
+
 
 In this project we apply clustering techniques to cluster data from the BBC dataset. Our goal is to identify patterns of news without using labels. The approach we will follow for EM in this project follows the work developed by professor [Gholamreza Haffari](http://users.monash.edu.au/~gholamrh/) from Monash University. 
 
